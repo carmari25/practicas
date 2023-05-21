@@ -1,0 +1,2 @@
+# practicas
+inicio de programación
